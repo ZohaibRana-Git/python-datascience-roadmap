@@ -1,0 +1,4 @@
+Hello, Python learner!
+This is a sample text file.
+You will learn how to read and write files like this one.
+Python makes file handling simple and clean.
